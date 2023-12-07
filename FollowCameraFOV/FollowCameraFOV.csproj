@@ -24,6 +24,10 @@
             <HintPath>$(SolutionDir)lib\Assembly-CSharp_public.dll</HintPath>
             <Private>False</Private>
         </Reference>
+		<Reference Include="Cinemachine">
+            <HintPath>$(InkboundInstallDir)\Inkbound_Data\Managed\Cinemachine.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
         <Reference Include="Unity.TextMeshPro">
             <HintPath>$(InkboundInstallDir)\Inkbound_Data\Managed\Unity.TextMeshPro.dll</HintPath>
             <Private>False</Private>
